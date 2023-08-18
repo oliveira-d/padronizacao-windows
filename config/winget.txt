@@ -7,5 +7,5 @@
 Microsoft.Office
 Google.Chrome
 Piriform.CCleaner
-Google.Drive
+Google.GoogleDrive
 Adobe.Acrobat.Reader.64-bit
